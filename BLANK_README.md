@@ -48,10 +48,10 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">목차</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">프로젝트 소개</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -59,8 +59,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">필수 조건</a></li>
+        <li><a href="#installation">설치</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -70,7 +70,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 프로젝트 소개
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -86,17 +86,17 @@ project_description
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+로컬에서 실행하려면 다음 단계를 따라주세요.
 
-### Prerequisites
+### 필수
 
-This is an example of how to list things you need to use the software and how to install them.
+다음은 소프트웨어를 사용하는 데 필요한 항목을 나열하는 방법과 설치하는 방법에 대한 예입니다.
 * npm
   ```sh
   npm install npm@latest -g
   ```
 
-### Installation
+### 설치
 
 1. Clone the repo
    ```sh
