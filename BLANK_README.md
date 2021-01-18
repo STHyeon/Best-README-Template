@@ -112,6 +112,6 @@ project_description
 <!-- CONTACT -->
 ## Contact
 
-TaeHyeon Song (Damsom) - [Gmail](mailto:th.damsom@gmail.com)
+TaeHyeon Song (Damsom) - [Mail](mailto:toby2009@naver.com)
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
